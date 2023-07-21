@@ -64,3 +64,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<<<<<<< HEAD
+=======
+# admin-dash
+# admin-dash
+# admin-dash
+>>>>>>> 59b937c (TALL stack vanilla admin dashboard starter kit)
