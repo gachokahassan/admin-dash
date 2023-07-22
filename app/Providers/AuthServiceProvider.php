@@ -13,7 +13,8 @@ class AuthServiceProvider extends ServiceProvider
      * @var array<class-string, class-string>
      */
     protected $policies = [
-        //
+        // Update `Activity::class` with the one defined in `config/activitylog.php`
+        Activity::class => ActivityPolicy::class,
     ];
 
     /**
